@@ -1,0 +1,15 @@
+.btn{
+    padding: .8rem 2rem;
+    font-size: 1rem;
+}
+
+.d-none{
+    display: none;
+}
+
+.d-flex{
+    box-sizing: border-box;
+    display: flex;
+    margin-top: 250px;
+    justify-self: center;
+}
